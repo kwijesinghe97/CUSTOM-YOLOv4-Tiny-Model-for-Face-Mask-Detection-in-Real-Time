@@ -43,9 +43,7 @@ You can also expand this dataset by adding your own images and labels. More sour
 
 ## 🚀 Try It Yourself
 
-- 📔 [Google Colab Notebook](https://colab.research.google.com/drive/1hQO4nOoD6RDxdbz3C1YSiifTsyZjZpYm?usp=sharing)  
-- 📝 [Medium Article](https://medium.com/@techzizou007/training-a-custom-detector-for-mask-detection-using-yolov4-tiny-darknet-b58be08c9593)  
-- 🎥 [YouTube Tutorial](https://youtu.be/H3SJcwttTi4)
+- 📔 [Google Colab Notebook](https://drive.google.com/file/d/1mhg7imcCQNVfmQsyU3H060uN9CWXJ-OH/view?usp=sharing)  
 
 ---
 
