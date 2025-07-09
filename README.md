@@ -2,6 +2,10 @@
 
 This project demonstrates a custom-trained **YOLOv4-tiny** object detector that identifies whether individuals are wearing face masks in real time. It's optimized for lightweight performance and suitable for real-time applications on low-resource systems.
 
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=19jAFnQCYkFl6WdmSMZ1R5QNjcve2tW0u" alt="Mask Detection Demo" width="600"/>
+</p>
+
 ---
 
 ## 📁 Repository Contents
