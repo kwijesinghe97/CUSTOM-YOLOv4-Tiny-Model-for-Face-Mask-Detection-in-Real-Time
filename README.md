@@ -53,7 +53,7 @@ You can also expand this dataset by adding your own images and labels. More sour
 
 ---
 <p align="center">
-  <a href="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo2.gif?raw=true">
+  <img src="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo2.gif?raw=true" alt="Mask Detection Demo" width="250"/>
 </p>
 
 ---
