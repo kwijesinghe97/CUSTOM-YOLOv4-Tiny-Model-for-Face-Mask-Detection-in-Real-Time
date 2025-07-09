@@ -3,7 +3,7 @@
 This project demonstrates a custom-trained **YOLOv4-tiny** object detector that identifies whether individuals are wearing face masks in real time. It's optimized for lightweight performance and suitable for real-time applications on low-resource systems.
 
 <p>
-  <img src="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo2.gif?raw=true" alt="Mask Detection Demo" width="600"/>
+  <img src="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo.gif?raw=true" alt="Mask Detection Demo" width="600"/>
 </p>
 
 
@@ -51,7 +51,7 @@ You can also expand this dataset by adding your own images and labels. More sour
 - 📔 [Google Colab Notebook](https://drive.google.com/file/d/1mhg7imcCQNVfmQsyU3H060uN9CWXJ-OH/view?usp=sharing)  
 
 <p align="center">
-  <img src="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo.gif?raw=true" alt="Mask Detection Demo" width="600" align="left"/>
+  <img src="https://github.com/kwijesinghe97/CUSTOM-YOLOv4-Tiny-Model-for-Face-Mask-Detection-in-Real-Time/blob/main/demo2.gif?raw=true" alt="Mask Detection Demo" width="600" align="left"/>
 </p>
 ---
 
